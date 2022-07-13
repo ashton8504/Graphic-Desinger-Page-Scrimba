@@ -1,12 +1,4 @@
-### Instructions
-#### All green text
-- color: #99d930
-- Font-weight: 900
-
-####The headings
-- h1: 80px
-- h2: 60px
-
-#### Button hover/focus
-- background: #fff
-- color: #252525
+### Your challenge
+- At large screens (about 750px), this section should have a minimum height of 100vh and the content centered vertically
+- The images should have a width of 100%, and a height of 15em. 
+- Fix the images so that they don’t stretch when given their height.

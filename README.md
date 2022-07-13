@@ -1,4 +1,4 @@
-# coa02445cadd02e9a1dc3e579
+# co9304fbc8ee4a9ea54235796
 
 ## About Scrimba
 
@@ -11,4 +11,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-# Graphic-Desinger-Page-Scrimba
